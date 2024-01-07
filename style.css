@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+}
+
+.body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.banner-first {
+    position: relative;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.banner-first img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 16px;
+}
+
+
+.banner-text {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+
+}
+
+.head-text {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.head-full {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+/* Second part- Discount part */
+
+.second-part {
+    margin: 120px 400px 120px 400px;
+}
+
+.discount-amount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.discount-slogan {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.discount-categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.new-year-image {
+    width: 802.9px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+/* Third Block- Party */
+
+.join {
+    position: relative;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.join img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 16px;
+}
+
+.join-party{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 100%;
+    display: flex;
+}
+
+
+.welcome {
+    color: white;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+}
+
+.party-description {
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
+}
+
+.join-button {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    background-color: orange;
+    border: orange;
+    border-radius: 5px;
+}
