@@ -112,7 +112,7 @@
     border-radius: 16px;
 }
 
-.join-party{
+.join-party {
     position: absolute;
     top: 20%;
     left: 5%;
@@ -151,7 +151,23 @@
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
-    background-color: orange;
-    border: orange;
+    background-color: #F00;
+    border: #F00;
     border-radius: 5px;
+}
+
+/* Invitation */
+
+.invitation-details {
+    width: 1320px;
+    height: 450px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    background-color: rgb(250, 235, 215);
+    margin: 120px;
+    padding-top: 100px;
 }
